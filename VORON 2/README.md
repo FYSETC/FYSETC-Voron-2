@@ -1,7 +1,7 @@
-# FYSETC-VORON
-This is FYSETC's project database about VORON, which is convenient for you to find information.Thanks for Voron Team's great work, they always design fantastic printers
+# FYSETC-VORON-2.4
+This is FYSETC's project database about VORON, which is convenient for you to find information.Thanks for Voron Team's great work, they always design fantastic printers.
 
-![](/1.jpg)
+![](/VORON2.jpg)
 
 1.Thingiverse：
 https://www.thingiverse.com/thing:4878324
