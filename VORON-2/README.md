@@ -3,7 +3,7 @@ This is FYSETC's project database for VORON2.4 , which is convenient for you to 
 
 In folder `Voron-2-Voron2.4` beside this README file, we make some small changes base on the VORON official material. Like change the board to Spider and others. 
 
-![](/VORON2.jpg)
+![](VORON2.jpg)
 
 1. Thingiverse：
    https://www.thingiverse.com/thing:4878324
