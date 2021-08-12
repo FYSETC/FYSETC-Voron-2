@@ -1,16 +1,26 @@
 # FYSETC-VORON-2.4
-This is FYSETC's project database for VORON2.4 , which is convenient for you to find information. Thanks for Voron Team's great work, they always design fantastic printers.
-
-In folder `Voron-2-Voron2.4` beside this README file, we make some small changes base on the VORON official material. Like change the board to Spider and others. 
 
 ![](VORON2.JPG)
 
-1. Thingiverse：
-   https://www.thingiverse.com/thing:4878324
+## Project
 
-2. VORON Official website:
-   Official website:：https://vorondesign.com/voron2.4
-   Official Github：https://github.com/VoronDesign/Voron-2
+This is FYSETC's project database for VORON 2.4 kit, which is convenient for you to find information. Thanks for VORON Team's great work, they always design fantastic printers.
 
-3. To buy the link:：
-   https://www.aliexpress.com/item/1005002752839378.html
+Official website:：https://vorondesign.com/voron2.4
+Official Github：https://github.com/VoronDesign/Voron-2
+
+In folder `Voron-2-Voron2.4` beside this README file, we make some small changes base on the VORON official material. Like change the board to Spider and others. 
+
+## Printed parts:
+
+You can find all printed parts in VORON [website](https://vorondesign.com/voron2.4), VORON [github](https://github.com/VoronDesign/Voron-2) and in our [Thingiverse](https://www.thingiverse.com/thing:4878324).
+
+Printed parts are not included in our VORON 2.4 kit, in some particular section of the machine, VORON provide you options. Like the plug panel at the back of VORON machine, you can choose [plug_panel](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/VORON2.4/Electronics_Compartment/Plug_Panel/plug_panel.stl) or [plug_panel_filtered_mains](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/VORON2.4/Electronics_Compartment/Plug_Panel/plug_panel_filtered_mains.stl). So in our kit, we also need to choose too, below is our choice.
+
+plug panel: we choose this [one](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/VORON2.4/Electronics_Compartment/Plug_Panel/plug_panel.stl).
+
+Microswitch edge pod : this [one](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/randell/Microswitch_Endstop/Microswitch_Edge_Pod.stl).
+
+## Where to buy the kit
+
+[Aliexpress](https://www.aliexpress.com/item/1005002752839378.html)
