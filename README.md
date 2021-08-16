@@ -11,6 +11,22 @@ Official Github：https://github.com/VoronDesign/Voron-2
 
 In folder `Voron-2-Voron2.4` beside this README file, we make some small changes base on the VORON official material. Like change the board to Spider and others. 
 
+## Wiring
+
+There is simple wiring from VORON community. Also you can refer Spider wiring [here](https://github.com/FYSETC/FYSETC-SPIDER#3-hardware-guide).
+
+![](wiring.jpg)
+
+## Connectors
+
+### Wire connector
+
+![](Connector.jpg)
+
+
+
+This is for fans wire connection, with this connector you can wire two or more fans to one side of the connector, and the other side  to Spider board. Then you can control the two or more fans with one control pin in Spider.
+
 ## Printed parts:
 
 You can find all printed parts in VORON [website](https://vorondesign.com/voron2.4), VORON [github](https://github.com/VoronDesign/Voron-2) and in our [Thingiverse](https://www.thingiverse.com/thing:4878324).
@@ -20,6 +36,8 @@ Printed parts are not included in our VORON 2.4 kit, in some particular section 
 plug panel: we choose this [one](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/VORON2.4/Electronics_Compartment/Plug_Panel/plug_panel.stl).
 
 Microswitch edge pod : this [one](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/randell/Microswitch_Endstop/Microswitch_Edge_Pod.stl).
+
+Z Chain mount: this [one](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/KiloQubit/VORON_2.4_Z_Chain_3_Hole_Mounts).
 
 ## Where to buy the kit
 
