@@ -13,9 +13,11 @@ In folder `Voron-2-Voron2.4` beside this README file, we make some small changes
 
 ## Wiring
 
-There is simple wiring from VORON community. Also you can refer Spider wiring [here](https://github.com/FYSETC/FYSETC-SPIDER#3-hardware-guide).
+There is wiring from VORON community [here](https://github.com/shiftingtech/Voron-Documentation/blob/Spider/build/electrical/v2_spider_wiring.md). Also you can refer Spider wiring [here](https://github.com/FYSETC/FYSETC-SPIDER#3-hardware-guide).
 
-![](Wiring.jpg)
+***Note: Check your fan voltage before you set the fan jumpers, the jumpers for fan in below diagram are all set to 24v.***
+
+![](v2_spider_wiring.png)
 
 ## Connectors
 
