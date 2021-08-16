@@ -41,6 +41,8 @@ Microswitch edge pod : this [one](https://github.com/VoronDesign/VoronUsers/blob
 
 Z Chain mount: this [one](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/KiloQubit/VORON_2.4_Z_Chain_3_Hole_Mounts).
 
+Spider board mount: search 'Spider' [here](https://faked.org/voronmods/).
+
 ## Where to buy the kit
 
 [Aliexpress](https://www.aliexpress.com/item/1005002752839378.html)
