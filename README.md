@@ -15,7 +15,7 @@ In folder `Voron-2-Voron2.4` beside this README file, we make some small changes
 
 There is simple wiring from VORON community. Also you can refer Spider wiring [here](https://github.com/FYSETC/FYSETC-SPIDER#3-hardware-guide).
 
-![](wiring.jpg)
+![](Wiring.jpg)
 
 ## Connectors
 
