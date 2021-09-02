@@ -6,7 +6,7 @@
 | 2     | GT2 20T Pulley (5mm ID 6mm W)                            | 3 PCS  |      |
 | 3     | F695 Bearing                                             | 20 PCS |      |
 | 4     | GT2 20T Toothed Idler (5mm ID 6mm W)                     | 2 PCS  |      |
-| 5     | GT2 20T Toothed Idler (5mm ID 9mm W)                     | 2 PCS  |      |
+| 5     | GT2 20T Toothed Idler (5mm ID 9mm W)                     | 4 PCS  |      |
 | 6     | 625 Bearing                                              | 12 PCS |      |
 | 7     | 5x60mm Shaft                                             | 4 PCS  |      |
 | 8     | GT2 16T Pulley (5mm ID 6mm W)                            | 4 PCS  |      |
