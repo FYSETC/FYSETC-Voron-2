@@ -11,13 +11,9 @@ Official Github：https://github.com/VoronDesign/Voron-2
 
 In folder `Voron-2-Voron2.4` beside this README file, we make some small changes base on the VORON official material. Like change the board to Spider and others. 
 
-## Wiring
+## BOM
 
-There is wiring from VORON community [here](https://github.com/shiftingtech/Voron-Documentation/blob/Spider/build/electrical/v2_spider_wiring.md). Also you can refer Spider wiring [here](https://github.com/FYSETC/FYSETC-SPIDER#3-hardware-guide).
-
-***Note: Check your fan voltage before you set the fan jumpers, the jumpers for fan in below diagram are all set to 24v.***
-
-![](v2_spider_wiring.png)
+Please check [here](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/BOM.md).
 
 ## Connectors
 
@@ -42,6 +38,14 @@ Microswitch edge pod : this [one](https://github.com/VoronDesign/VoronUsers/blob
 Z Chain mount: this [one](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/KiloQubit/VORON_2.4_Z_Chain_3_Hole_Mounts).
 
 Spider board mount: search 'Spider' [here](https://faked.org/voronmods/).
+
+## Wiring
+
+There is wiring from VORON community [here](https://github.com/shiftingtech/Voron-Documentation/blob/Spider/build/electrical/v2_spider_wiring.md). Also you can refer Spider wiring [here](https://github.com/FYSETC/FYSETC-SPIDER#3-hardware-guide).
+
+***Note: Check your fan voltage before you set the fan jumpers, the jumpers for fan in below diagram are all set to 24v.***
+
+![](v2_spider_wiring.png)
 
 ## Where to buy the kit
 
