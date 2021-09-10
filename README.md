@@ -49,4 +49,4 @@ There is wiring from VORON community [here](https://github.com/shiftingtech/Voro
 
 ## Where to buy the kit
 
-[Aliexpress](https://www.aliexpress.com/item/1005002752839378.html)
+[Aliexpress](https://www.aliexpress.com/item/1005002782065110.html)
