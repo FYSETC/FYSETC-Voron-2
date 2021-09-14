@@ -35,7 +35,7 @@ plug panel: we choose this [one](https://github.com/VoronDesign/Voron-2/blob/Vor
 
 Microswitch edge pod : this [one](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/randell/Microswitch_Endstop/Microswitch_Edge_Pod.stl).
 
-Z Chain mount: this [one](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/KiloQubit/VORON_2.4_Z_Chain_3_Hole_Mounts).
+Z Chain mount: our rev1.0 and rev1.1 Chain size is 1011 ,it is different from VORON sourcing size 1015, so we use our own printed part [1](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/Z_Chain_Lower_Mount.STL) and [2](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/Z_Chain_Upper_Mount.STL). 
 
 Spider board mount: search 'Spider' [here](https://faked.org/voronmods/).
 
