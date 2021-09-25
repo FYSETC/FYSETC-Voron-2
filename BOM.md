@@ -55,7 +55,7 @@
 | 49    | Panels               | Bottom/Back/Electronics Bay Panels          | 3 PCS        |                                                              |
 | 50    | Panels               | Side/Front/Top Acrylic Panels               | 4 PCS        |                                                              |
 | 51    | Buildplate           | MIC6 5/16" Plate - 14"x14"                  | 1 PC         |                                                              |
-| 52    | Buildplate           | Silicone AC Heater - 300x300mm (650W)       | 1 PC         | Thermal Fuse wired                                           |
+| 52    | Buildplate           | Silicone AC Heater - 300x300mm (650W)       | 1 PC         | Thermal Fuse RH15A125 wired                                  |
 | 53    | Buildplate           | Textured steel plate 355*355mm              | 1 PC         |                                                              |
 | 54    | Buildplate           | Magnetic stickers 355*355mm                 | 1 PC         |                                                              |
 
@@ -117,7 +117,7 @@
 | 52    | Panels               | Bottom/Back/Electronics Bay Panels          | 3 PCS        |                                                              |
 | 53    | Panels               | Side/Front/Top Acrylic Panels               | 4 PCS        |                                                              |
 | 54    | Buildplate           | MIC6 5/16" Plate - 14"x14"                  | 1 PC         |                                                              |
-| 55    | Buildplate           | Silicone AC Heater - 300x300mm (650W)       | 1 PC         | Thermal Fuse wired                                           |
+| 55    | Buildplate           | Silicone AC Heater - 300x300mm (650W)       | 1 PC         | Thermal Fuse RH15A125 wired                                  |
 | 56    | Buildplate           | Textured steel plate 355*355mm              | 1 PC         |                                                              |
 | 57    | Buildplate           | Magnetic stickers 355*355mm                 | 1 PC         |                                                              |
 | 58    | Tool                 | Cutting pliers                              | 1 PC         | v1.1 added                                                   |
