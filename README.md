@@ -2,7 +2,7 @@
 
 ![](VORON2.JPG)
 
-## Project
+## 1. Project
 
 This is FYSETC's project database for VORON 2.4 kit, which is convenient for you to find information. Thanks for VORON Team's great work, they always design fantastic printers.
 
@@ -11,11 +11,13 @@ Official Github：https://github.com/VoronDesign/Voron-2
 
 In folder `Voron-2-Voron2.4` beside this README file, we make some small changes base on the VORON official material. Like change the board to Spider and others. 
 
-## BOM
+## 2. BOM
 
 Please check [here](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/BOM.md).
 
-## Connectors
+## 3. Extra parts
+
+Besides the parts in Voron sourcing guide, we offer extra useful parts for you.
 
 ### Wire connector
 
@@ -25,7 +27,7 @@ Please check [here](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/BOM.md).
 
 This is for fans wire connection, with this connector you can wire two or more fans to one side of the connector, and the other side  to Spider board. Then you can control the two or more fans with one control pin in Spider.
 
-## Printed parts:
+## 4. Printed parts:
 
 You can find all printed parts in VORON [website](https://vorondesign.com/voron2.4), VORON [github](https://github.com/VoronDesign/Voron-2) and in our [Thingiverse](https://www.thingiverse.com/thing:4878324).
 
@@ -39,7 +41,7 @@ Z Chain mount: our rev1.0 and rev1.1 Chain size is 1011 ,it is different from VO
 
 Spider board mount: search 'Spider' [here](https://faked.org/voronmods/).
 
-## Wiring
+## 5. Wiring
 
 There is wiring from VORON community [here](https://github.com/shiftingtech/Voron-Documentation/blob/Spider/build/electrical/v2_spider_wiring.md). Also you can refer Spider wiring [here](https://github.com/FYSETC/FYSETC-SPIDER#3-hardware-guide).
 
@@ -47,6 +49,12 @@ There is wiring from VORON community [here](https://github.com/shiftingtech/Voro
 
 ![](v2_spider_wiring.png)
 
-## Where to buy the kit
+## 6. OctoPi
+
+Account: FYSETC
+
+Password: 12345678
+
+## 7. Where to buy the kit
 
 [Aliexpress](https://www.aliexpress.com/item/1005002782065110.html)
