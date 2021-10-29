@@ -29,7 +29,7 @@ This is for fans wire connection, with this connector you can wire two or more f
 
 ## 4. Printed parts:
 
-You can find all printed parts in VORON [website](https://vorondesign.com/voron2.4), VORON [github](https://github.com/VoronDesign/Voron-2) and in our [Thingiverse](https://www.thingiverse.com/thing:4878324).
+You can find all printed parts in VORON [website](https://vorondesign.com/voron2.4), VORON [github](https://github.com/VoronDesign/Voron-2).
 
 Printed parts are not included in our VORON 2.4 kit, in some particular section of the machine, VORON provide you options. Like the plug panel at the back of VORON machine, you can choose [plug_panel](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/VORON2.4/Electronics_Compartment/Plug_Panel/plug_panel.stl) or [plug_panel_filtered_mains](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/VORON2.4/Electronics_Compartment/Plug_Panel/plug_panel_filtered_mains.stl). So in our kit, we also need to choose too, below is our choice.
 
