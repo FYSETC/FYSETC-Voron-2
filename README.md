@@ -43,17 +43,29 @@ Spider board mount: search 'Spider' [here](https://faked.org/voronmods/).
 
 ## 5. Wiring
 
+### 5.1 Spider wiring
+
 There is wiring from VORON community [here](https://github.com/shiftingtech/Voron-Documentation/blob/Spider/build/electrical/v2_spider_wiring.md). Also you can refer Spider wiring [here](https://github.com/FYSETC/FYSETC-SPIDER#3-hardware-guide).
 
 ***Note: Check your fan voltage before you set the fan jumpers, the jumpers for fan in below diagram are all set to 24v.***
 
 ![](v2_spider_wiring.png)
 
+### 5.2 XY endstop
+
+![](XY_endstop.jpg)
+
 ## 6. OctoPi
+
+We provide a SD card with OctoPi installed after rev1.1. You can login in with the following account and password.
 
 Account: FYSETC
 
 Password: 12345678
+
+## 7. Klipper
+
+You can find example printer.cfg file on VORON github [here](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/firmware/klipper_configurations/Spider) or our Spider github [here](https://github.com/FYSETC/FYSETC-SPIDER/blob/main/firmware/Klipper/printer.cfg).
 
 ## 7. Where to buy the kit
 
