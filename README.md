@@ -43,7 +43,7 @@ Spider board mount: search 'Spider' [here](https://faked.org/voronmods/).
 
 ## 5. Wiring
 
-### 5.1 Spider wiring
+### 5.1 Spider 1.x wiring
 
 There is wiring from VORON community [here](https://github.com/shiftingtech/Voron-Documentation/blob/Spider/build/electrical/v2_spider_wiring.md). Also you can refer Spider wiring [here](https://github.com/FYSETC/FYSETC-SPIDER#3-hardware-guide).
 
@@ -51,7 +51,13 @@ There is wiring from VORON community [here](https://github.com/shiftingtech/Voro
 
 ![](v2_spider_wiring.png)
 
-### 5.2 XY endstop
+### 5.2 Spider v2.2 wiring
+
+If you use Spider v2.2, follow the wiring below
+
+![](VORON2.4_SPIDER_V22_WIRING.jpg)
+
+### 5.3 XY endstop
 
 ![](XY_endstop.jpg)
 
