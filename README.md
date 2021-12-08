@@ -61,17 +61,20 @@ If you use Spider v2.2, follow the wiring below
 
 ![](XY_endstop.jpg)
 
-## 6. OctoPi
+## 6. Firmware&OS
+
+You can find example Klipper printer.cfg file on VORON github [here](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/firmware/klipper_configurations/Spider) or our Spider github [here](https://github.com/FYSETC/FYSETC-SPIDER/blob/main/firmware/Klipper/printer.cfg). And you can get our pre-build firmware in the `firmware&OS` folder next to this README file. 
+
+### 6.1 OctoPi
 
 We provide a SD card with OctoPi installed after rev1.1. You can login in with the following account and password.
 
+```
 Account: FYSETC
-
 Password: 12345678
+```
 
-## 7. Klipper
-
-You can find example printer.cfg file on VORON github [here](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/firmware/klipper_configurations/Spider) or our Spider github [here](https://github.com/FYSETC/FYSETC-SPIDER/blob/main/firmware/Klipper/printer.cfg).
+Also we provide you Octopi OS system image for you, please check the README in `firmware&OS` folder.
 
 ## 7. Where to buy the kit
 
