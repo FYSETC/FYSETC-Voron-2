@@ -76,6 +76,13 @@ Password: 12345678
 
 Also we provide you Octopi OS system image for you, please check the README in `firmware&OS` folder.
 
+OS SSH login account and password
+
+```
+Account: pi
+Password: raspberry
+```
+
 ## 7. Where to buy the kit
 
 [Aliexpress](https://www.aliexpress.com/item/1005002782065110.html)

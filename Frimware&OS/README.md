@@ -16,3 +16,18 @@ In the kit, you should find an sdcard pre-flashed Octopi system if your kit vers
 
 Before flash, you need an SD card , minimum requirement of SD card capacity is 8G. Please prepare that first. And then you can use this software [here](https://www.balena.io/etcher/) to install. Well that are so many OS flash tool that you can use. And there are a lot of tutorial if you google `how to flash os image`.
 
+### 2.2 OctoPi
+
+You can login in with the following account and password.
+
+```
+Account: FYSETC
+Password: 12345678
+```
+
+OS SSH login account and password
+
+```
+Account: pi
+Password: raspberry
+```
