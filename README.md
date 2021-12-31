@@ -67,7 +67,7 @@ You can find example Klipper printer.cfg file on VORON github [here](https://git
 
 ### 6.1 OctoPi
 
-We provide a SD card with OctoPi installed after rev1.1. You can login in with the following account and password.
+We provide a SD card with OctoPi installed after rev1.1. You can login in Octoprint with the following account and password.
 
 ```
 Account: FYSETC
