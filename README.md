@@ -37,7 +37,7 @@ plug panel: we choose this [one](https://github.com/VoronDesign/Voron-2/blob/Vor
 
 Microswitch edge pod : this [one](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/randell/Microswitch_Endstop/Microswitch_Edge_Pod.stl).
 
-Z Chain mount: our rev1.0 and rev1.1 Chain size is 1011 ,it is different from VORON sourcing size 1015, so we use our own printed part [1](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/Z_Chain_Lower_Mount.STL) and [2](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/Z_Chain_Upper_Mount.STL). 
+Z Chain mount: our rev1.0 and rev1.1 Chain size is 1011 ,it is different from VORON sourcing size 1015, so we use our own printed part [1](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/Z_Chain_Lower_Mount.STL) and [2](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/Z_Chain_Upper_Mount.STL). On rev1.2 and later version, we changed to 1015, so you can use VORON printed parts. 
 
 Spider board mount: search 'Spider' [here](https://faked.org/voronmods/).
 
@@ -63,7 +63,7 @@ If you use Spider v2.2, follow the wiring below
 
 ## 6. Firmware&OS
 
-You can find example Klipper printer.cfg file on VORON github [here](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/firmware/klipper_configurations/Spider) or our Spider github [here](https://github.com/FYSETC/FYSETC-SPIDER/blob/main/firmware/Klipper/printer.cfg). And you can get our pre-build firmware in the `firmware&OS` folder next to this README file. 
+You can find example Klipper printer.cfg file on VORON github [here](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/firmware/klipper_configurations/Spider) or our Spider github [here](https://github.com/FYSETC/FYSETC-SPIDER/blob/main/firmware/Klipper/printer.cfg) or gitee [here](https://gitee.com/fysetc-mirrors/FYSETC-SPIDER/tree/main/firmware/Klipper). And you can get our pre-build firmware and OctoPi system image in the `firmware&OS` folder next to this `README` file. 
 
 ### 6.1 OctoPi
 
