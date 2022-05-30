@@ -11,9 +11,11 @@ Official Github：https://github.com/VoronDesign/Voron-2
 
 In folder `Voron-2-Voron2.4` beside this README file, we make some small changes base on the VORON official material. Like change the board to Spider and others. 
 
-## 2. BOM
+## 2. BOM & Changes
 
-Please check [here](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/BOM.md).
+Please check BOM [here](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/BOM.md).
+
+### VORON 2.4 R2
 
 ## 3. Extra parts
 
@@ -31,15 +33,11 @@ This is for fans wire connection, with this connector you can wire two or more f
 
 You can find all printed parts in VORON [website](https://vorondesign.com/voron2.4), VORON [github](https://github.com/VoronDesign/Voron-2).
 
-Printed parts are not included in our VORON 2.4 kit, in some particular section of the machine, VORON provide you options. Like the plug panel at the back of VORON machine, you can choose [plug_panel](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/VORON2.4/Electronics_Compartment/Plug_Panel/plug_panel.stl) or [plug_panel_filtered_mains](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/VORON2.4/Electronics_Compartment/Plug_Panel/plug_panel_filtered_mains.stl). So in our kit, we also need to choose too, below is our choice.
+Printed parts are not included in our VORON 2.4 kit. As VORON official provide you options on some particular printed part of the machine. Like the plug panel at the back of VORON machine, you can choose [plug_panel](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/VORON2.4/Electronics_Compartment/Plug_Panel/plug_panel.stl) or [plug_panel_filtered_mains](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/VORON2.4/Electronics_Compartment/Plug_Panel/plug_panel_filtered_mains.stl). So in our kit, we also need to choose too, below is our choice.
 
-plug panel: we choose this [one](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/VORON2.4/Electronics_Compartment/Plug_Panel/plug_panel.stl).
-
-Microswitch edge pod : this [one](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/randell/Microswitch_Endstop/Microswitch_Edge_Pod.stl).
-
-Z Chain mount: our rev1.0 and rev1.1 Chain size is 1011 ,it is different from VORON sourcing size 1015, so we use our own printed part [1](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/Z_Chain_Lower_Mount.STL) and [2](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/Z_Chain_Upper_Mount.STL). On rev1.2 and later version, we changed to 1015, so you can use VORON printed parts.  But the z chain mount you need to use this [one](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/KiloQubit/VORON_2.4_Z_Chain_3_Hole_Mounts).
-
-Spider board mount: search 'Spider' [here](https://faked.org/voronmods/).
+| Revision 1.0                                                 | Revision 1.1                                                 | Revision 1.2                                                 | Revision 1.3                                                 | R2   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| [plug panel](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/VORON2.4/Electronics_Compartment/Plug_Panel/plug_panel.stl), [Microswitch edge pod](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/randell/Microswitch_Endstop/Microswitch_Edge_Pod.stl), [Z Chain mount part 1](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/Z_Chain_Lower_Mount.STL), [Z Chain mount part 2](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/Z_Chain_Upper_Mount.STL), Spider board mount | [plug panel](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/VORON2.4/Electronics_Compartment/Plug_Panel/plug_panel.stl), [Microswitch edge pod](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/randell/Microswitch_Endstop/Microswitch_Edge_Pod.stl), [Z Chain mount part 1](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/Z_Chain_Lower_Mount.STL), [Z Chain mount part 2](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/Z_Chain_Upper_Mount.STL), Spider board mount | [plug panel](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/VORON2.4/Electronics_Compartment/Plug_Panel/plug_panel.stl), [Microswitch edge pod](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/randell/Microswitch_Endstop/Microswitch_Edge_Pod.stl), [Z Chain mount part](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/KiloQubit/VORON_2.4_Z_Chain_3_Hole_Mounts), Spider board mount | [plug panel](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/VORON2.4/Electronics_Compartment/Plug_Panel/plug_panel.stl), [Microswitch edge pod](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/randell/Microswitch_Endstop/Microswitch_Edge_Pod.stl), [Z Chain mount part](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/KiloQubit/VORON_2.4_Z_Chain_3_Hole_Mounts), Spider board mount |      |
 
 ## 5. Wiring
 
@@ -56,6 +54,10 @@ There is wiring from VORON community [here](https://github.com/shiftingtech/Voro
 If you use Spider v2.2, follow the wiring below
 
 ![](VORON2.4_SPIDER_V22_WIRING.jpg)
+
+#### VORON 2.4 R2 kit wiring example
+
+If the pic is not clear enough, please check PDF type file [here](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/VORON2.4R2_SPIDER_V22_Wiring.pdf).![](VORON2.4R2_SPIDER_V22_Wiring.png)
 
 ### 5.3 XY endstop
 
