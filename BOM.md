@@ -250,3 +250,80 @@
 | 61    | Tool                 | Hexagonal wrenchs                                            | 1 SET        |                                                              |
 | 62    | Tool                 | Thermal silica                                               | 1 PC         |                                                              |
 | 63    | Misc                 | Klicky-Probe kit                                             | 1 SET        |                                                              |
+## VORON 2.4 R2 Revision 1.0
+
+| Index | Sort                 | Component                                                    | Qty          | Note                                                         |
+| ----- | -------------------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
+| 1     | Fasteners            | Voron V2.4 R2 fasteners Pack                                 | 1 SET        |                                                              |
+| 2     | Motion               | GATES GT2 Open Belt LL-2GT-6 (6mm wide) - 1800/2000mm        | 2 PC         |                                                              |
+| 3     | Motion               | GATES GT2 Open Belt LL-2GT-9 (9mm wide) - 1100/1200mm        | 4 PC         |                                                              |
+| 4     | Motion               | GATES GT2 Belt Loop (6mm W) - 188mm                          | 4 PCS        |                                                              |
+| 5     | Motion               | GT2 20T Pulley (5mm ID 6mm W) 1PC remove end cap             | 3 PCS        |                                                              |
+| 6     | Motion               | GT2 16T Pulley (5mm ID 6mm W)                                | 4 PCS        |                                                              |
+| 7     | Motion               | GT2 20T Pulley (5mm ID 9mm W)                                | 4 PCS        |                                                              |
+| 8     | Motion               | GT2 20T Toothed Idler (5mm ID 6mm W)                         | 2 PCS        |                                                              |
+| 9     | Motion               | GT2 20T Toothed Idler (5mm ID 9mm W)                         | 4 PCS        |                                                              |
+| 10    | Motion               | GT2 80T Pulley (5mm ID 6mm W)                                | 4 PCS        |                                                              |
+| 11    | Motion               | F695 Bearing                                                 | 20 PCS       |                                                              |
+| 12    | Motion               | 625 Bearing                                                  | 12 PCS       |                                                              |
+| 13    | Motion               | 5x60mm Shaft                                                 | 4 PCS        |                                                              |
+| 14    | Motion               | 5x29.5mm Shaft                                               | 1 PC         |                                                              |
+| 15    | Motion               | Linear Rail MGN9H 350/400mm                                  | 7 PCS        |                                                              |
+| 16    | Motion               | Linear Rail MGN12H 350/400mm                                 | 1 PCS        |                                                              |
+| 17    | Vibration Management | Rubber Compressor Foot                                       | 4 PCS        |                                                              |
+| 18    | Electronics          | Afterburner_Toolhead_X_PCB                                   | 1 PC         |                                                              |
+| 19    | Electronics          | Afterburner_Toolhead_X_PCB Teflon wiring                     | 1 PC         |                                                              |
+| 20    | Electronics          | XY Microswitch Endstop / Z Endstop                           | 1 PC / 1 SET | [Here](https://github.com/VoronDesign/Voron-Hardware/tree/master/Microswitch_Z_Endstop) |
+| 21    | Electronics          | Omron TL-Q5MC2 - NPN Inductive Probe                         | 1 PC         |                                                              |
+| 22    | Electronics          | Omron G3NB-225B-1 SSR                                        | 1 PC         |                                                              |
+| 23    | Electronics          | NEMA17 Motor  17HS19-2004S-C (check [here](https://github.com/FYSETC/FYSETC-MOTORS/tree/main/17HS19-2004S-C)) | 6 PCS        |                                                              |
+| 24    | Electronics          | NEMA17 Motor 42HS20401B-20-0.05M(check [here](https://github.com/FYSETC/FYSETC-MOTORS/tree/main/42HS20401B-20-2.6M)) | 1 PC         |                                                              |
+| 25    | Electronics          | Mean Well LRS-200-24 PSU                                     | 1 PC         |                                                              |
+| 26    | Electronics          | Inlet Power Socket IEC320 C14                                | 1 SET        |                                                              |
+| 27    | Electronics          | 40x40x10 Axial Fan (24V)                                     | 1 PC         |                                                              |
+| 28    | Electronics          | 40x40x20 Centrifugal Fan (24V)                               | 1 PC         |                                                              |
+| 29    | Electronics          | 60x60x20 Fan (24V)kit（3 PCS）                               | 1 SET        |                                                              |
+| 30    | Electronics          | Keystone CAT6 Insert (Optional)                              | 1 PC         |                                                              |
+| 31    | Electronics          | C13 Power Cord                                               | 1 PC         |                                                              |
+| 32    | Controller           | RaspberryPi（Optional）                                      | 1 PC         |                                                              |
+| 33    | Controller           | sdcard 16GB                                                  | 1 PC         |                                                              |
+| 34    | Controller           | USB C cable                                                  | 1 PC         |                                                              |
+| 35    | Controller           | Spider Board                                                 | 1 PC         |                                                              |
+| 36    | Controller           | TMC2209 Stepper Motor Driver                                 | 7 PCS        |                                                              |
+| 37    | Controller           | Mini 12864 Display                                           | 1 PC         |                                                              |
+| 38    | Frame                | OpenBuilds Angle Corner Connector                            | 4 PCS        |                                                              |
+| 39    | Frame                | Misumi sectional profile Kit HFSB5-2020 SET                  | 18 PCS       |                                                              |
+| 40    | Misc                 | PTFE Tube (4mm OD 2mm ID) - 1.5m                             | 1 PC         |                                                              |
+| 41    | Misc                 | 6x3mm Neodimium Magnet                                       | 10 PCS       |                                                              |
+| 42    | Misc                 | 4mm Bowden Coupler                                           | 1 PC         |                                                              |
+| 43    | Misc                 | BMG Extruder Componnets Kit                                  | 1 SET        |                                                              |
+| 44    | Misc                 | E3D V6 Bowden Hotend Kit (24V) Titanium Alloy Bi-Metal Heatbreak | 1 SET        |                                                              |
+| 45    | Misc                 | Heater φ6X15 24V 50W                                         | 1 PC         |                                                              |
+| 46    | Misc                 | Thermistor NTC 100K B3950                                    | 1 PC         |                                                              |
+| 47    | Misc                 | DIN 3 Rails (35mm W) - 460mm                                 | 2 PCS        |                                                              |
+| 48    | Misc                 | DIN Rail Mount Bracket for G3A SSR                           | 1 PC         |                                                              |
+| 49    | Misc                 | Fume Extractor Carbon Filter Element                         | 1 PC         |                                                              |
+| 50    | Misc                 | 3M VHB Tape 5952                                             | 1 PC         |                                                              |
+| 51    | Misc                 | Foam Tape Thickness 1mm Length 5m                            | 1PC          |                                                              |
+| 52    | Misc                 | Foam Tape Thickness 3mm Length 4m                            | 2 PCS        |                                                              |
+| 53    | Misc                 | XH2.54 2/3/4 Pin Plastic shell                               | 1 SET        |                                                              |
+| 54    | Mics                 | Zipties                                                      | 1 SET        |                                                              |
+| 55    | Cables               | Cable Kit（Pre-crimped terminals and longer wire lengths with label） | 1 SET        |                                                              |
+| 56    | Cables               | VORON 2.4 Chain Kit (1PC 15X10mm，2PCS 10X11)                | 1 SET        |                                                              |
+| 57    | Panels               | Bottom/Back/Electronics Bay Panels                           | 3 PCS        |                                                              |
+| 58    | Panels               | Side/Front/Top Acrylic Panels                                | 4 PCS        |                                                              |
+| 59    | Buildplate           | MIC6 5/16" Plate - 305X305/355X355mm                         | 1 PC         |                                                              |
+| 60    | Buildplate           | Silicone AC Heater - 250X250/300x300mm (600/750W)+Thermal Fuse RH15A125（Pluggable） | 1 PC         |                                                              |
+| 61    | Buildplate           | JanusBPS Textured steel plate 305X305/355X355mm （One side pattern and the other side glossy PEI sticker） | 1 PC         | [JanusBPS](https://www.google.com/search?q=JanusBPS&oq=JanusBPS&aqs=chrome..69i57j69i60l3.579j0j4&sourceid=chrome&ie=UTF-8) |
+| 62    | Buildplate           | Magnetic stickers 305X305/355X355mm thickness 2mm            | 1 PC         |                                                              |
+| 63    | Buildplate           | Insulation cotton thickness 5mm                              | 1 PC         |                                                              |
+| 64    | Tool                 | Cutting pliers                                               | 1 PC         |                                                              |
+| 65    | Tool                 | Hexagonal wrenchs                                            | 1 SET        |                                                              |
+| 66    | Tool                 | Thermal silica                                               | 1 PC         |                                                              |
+| 67    | Mics                 | PVC wiring duct 30x30mm                                      | 1 SET        |                                                              |
+| 68    | Mics                 | Wago 221-415 Terminals                                       | 3 PCS        |                                                              |
+| 69    | Mics                 | VORON Nevermore V5                                           | 1 SET        |                                                              |
+| 70    | Mics                 | Weaving casing                                               | 1 SET        |                                                              |
+| 71    | Mics                 | The standby line 3m                                          | 1 PC         |                                                              |
+| 72    | Mics                 | Wiring diagram                                               | 1 PC         |                                                              |
+| 73    | Electronics          | Klicky-Probe kit                                             | 1 SET        |                                                              |
