@@ -268,7 +268,7 @@
 | 12    | Motion               | 625 Bearing                                                  | 12 PCS       |                                                              |
 | 13    | Motion               | 5x60mm Shaft                                                 | 4 PCS        |                                                              |
 | 14    | Motion               | 5x29.5mm Shaft                                               | 1 PC         |                                                              |
-| 15    | Motion               | Linear Rail MGN9H 350/400mm                                  | 7 PCS        |                                                              |
+| 15    | Motion               | Linear Rail MGN9H 350/400mm                                  | 6 PCS        |                                                              |
 | 16    | Motion               | Linear Rail MGN12H 350/400mm                                 | 1 PCS        |                                                              |
 | 17    | Vibration Management | Rubber Compressor Foot                                       | 4 PCS        |                                                              |
 | 18    | Electronics          | Afterburner_Toolhead_X_PCB                                   | 1 PC         |                                                              |
