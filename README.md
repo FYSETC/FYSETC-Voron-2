@@ -57,11 +57,23 @@ If the pic is not clear enough, please check PDF file [here](https://github.com/
 
 #### 5.2.2 VORON 2.4 R2 kit wiring
 
+##### Spider 2.2
+
 If the pic is not clear enough, please check PDF file [here](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/VORON2.4R2_SPIDER_V22_Wiring_S.pdf).
 
 ![](VORON2.4R2_SPIDER_V22_Wiring_S.png)
 
 If the pic is not clear enough, please check PDF type [here](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/VORON2.4R2_SPIDER_V22_Wiring.pdf).![](VORON2.4R2_SPIDER_V22_Wiring.png)
+
+##### Spider 2.3
+
+If the pic is not clear enough, please check PDF file [here](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/VORON2.4R2_SPIDER_V23_Wiring_S.pdf).
+
+![](VORON2.4R2_SPIDER_V23_WIRING_S.png)
+
+If the pic is not clear enough, please check PDF type [here](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/VORON2.4R2_SPIDER_V23_Wiring.pdf).
+
+![](VORON2.4R2_SPIDER_V23_Wiring.png)
 
 ### 5.3 XY endstop
 
